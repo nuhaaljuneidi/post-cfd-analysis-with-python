@@ -4,6 +4,16 @@ A six-session, application-driven course by **Dr. Nuha Aljuneidi** for students,
 
 The course begins after a CFD solver has produced results. It focuses on validation, automation, interpretation, and communication—not on building meshes or running a particular solver. Every notebook runs directly in Google Colab and includes synthetic data, so no commercial CFD license is required. The import patterns are designed for generic CSV files and ANSYS Fluent exports.
 
+## How to use this course
+
+1. Choose a session from the roadmap below and select **Open in Colab**.
+2. In Colab, select **File → Save a copy in Drive** before making changes so your work is preserved.
+3. Run the notebook from top to bottom once with the included synthetic data.
+4. Complete the exercises, then replace the sample data with your own CFD CSV export when you are ready.
+5. Record units, reference values, coordinate conventions, and assumptions alongside every result.
+
+Each session is self-contained, but completing them in order is recommended because the validation and reporting practices build progressively.
+
 ## Course roadmap
 
 | Session | Topic | Start |
